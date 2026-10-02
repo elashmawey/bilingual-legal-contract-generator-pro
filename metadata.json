@@ -1,0 +1,8 @@
+{
+  "name": "Bilingual Legal Contract Generator",
+  "description": "An application that acts as a senior legal counsel to generate precise, legally sound bilingual (Arabic-English) contracts based on Egyptian law. It gathers contract details from the user and then generates a formal contract.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
